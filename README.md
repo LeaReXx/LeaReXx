@@ -8,7 +8,7 @@
 ⭐ Giving stars to people's projects not only won't consume yours, it will further encourage the developers!    
 
 ## 🌐Socials
-[![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)](htttps://discord.gg/https://discord.com/users/394974967906828288) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/https://www.instagram.com/_sepiix/) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/sepehr-aghapoor-52360a21b/) [![Discord](https://img.shields.io/badge/Telegram-%231877F2.svg?logo=telegram)](https://t.me/LeaReX)
+[![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)](https://discord.com/users/394974967906828288) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/https://www.instagram.com/_sepiix/) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/sepehr-aghapoor-52360a21b/) [![Discord](https://img.shields.io/badge/Telegram-%231877F2.svg?logo=telegram)](https://t.me/LeaReX)
 
 
 # 💻Tech Stack
