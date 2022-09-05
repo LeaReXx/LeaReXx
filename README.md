@@ -1,5 +1,5 @@
 # 💫About Me :
-🌱 I'm Front-End Developer
+🌱 I'm Front-End Developer  
 💓 I'd love to play video games  
 🔭 I’m currently working on a project  
 👯 I’m looking to collaborate on 
