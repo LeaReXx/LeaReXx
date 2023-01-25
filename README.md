@@ -1,7 +1,6 @@
 # 💫About Me :
 🌱 I'm Front-End Developer  
 💓 I'd love to play video games  
-🔭 I’m currently working on a project  
 👯 I’m looking to collaborate on 
 💬 Ask me about anything but you usually get "i dont know"  
 📫 How to reach me: Email: Dev.sepehr@outlook.com  
