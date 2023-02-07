@@ -1,8 +1,7 @@
 # 💫About Me :
 🌱 I'm Front-End Developer  
 💓 I'd love to play video games  
-👯 I’m looking to collaborate on 
-💬 Ask me about anything but you usually get "i dont know"  
+👯 I’m looking to collaborate on  
 📫 How to reach me: Email: Dev.sepehr@outlook.com  
 ⭐ Giving stars to people's projects not only won't consume yours, it will further encourage the developers!  
 💻 Discord: `SePeHr#1166`
