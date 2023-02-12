@@ -18,12 +18,12 @@
 <img
 src="https://github-readme-stats.vercel.app/api?username=LeaReXx&theme=great-gatsby&hide_border=false&include_all_commits=false&count_private=true"
 alt="Github Stat" 
-height='200px'
+height='160px'
 />
 <img
 src="https://github-readme-stats.vercel.app/api/top-langs/?username=LeaReXx&theme=great-gatsby&hide_border=false&include_all_commits=false&count_private=true&layout=compact"
 alt="Github Stat"
-height='200px'
+height='160px'
 />
 </div>
 
