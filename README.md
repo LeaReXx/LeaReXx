@@ -17,6 +17,7 @@
 <img src="https://voyager.postman.com/logo/postman-logo-icon-orange.svg" alt="Postman" width="40" height="40"/>
 <img src="https://static-00.iconduck.com/assets.00/node-js-icon-454x512-nztofx17.png" alt="Node JS" width="40" height="45"/>
 <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/96/Socket-io.svg/1024px-Socket-io.svg.png" alt="Socket io" width="45" height="45"/>
+<img src="https://miro.medium.com/v2/resize:fit:300/1*_HZPBJ2WejyvkBDJo1CUwg.png" alt="Mongo DB" width="45" height="45"/>
 </p>
 
 
