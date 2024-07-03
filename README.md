@@ -1,5 +1,5 @@
 # 💫About Me :
-🌱 I'm Front-End Developer  
+🌱 I'm Full-Stack Developer  
 💓 I'd love to play video games  
 👯 I’m looking to collaborate on  
 📫 How to reach me: Email: Dev.sepehr@outlook.com  
