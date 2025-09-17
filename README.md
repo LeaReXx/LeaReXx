@@ -19,19 +19,3 @@
 <img src="https://miro.medium.com/v2/resize:fit:300/1*_HZPBJ2WejyvkBDJo1CUwg.png" alt="Mongo DB" width="45" height="45"/>
 </p>
 
-
-# 📊GitHub Stats :
-<div style="display:flex;" align="center">
-<img
-src="https://github-readme-stats.vercel.app/api?username=LeaReXx&theme=great-gatsby&hide_border=false&include_all_commits=false&count_private=true"
-alt="Github Stat" 
-height='160px'
-/>
-<img
-src="https://github-readme-stats.vercel.app/api/top-langs/?username=LeaReXx&theme=great-gatsby&hide_border=false&include_all_commits=false&count_private=true&layout=compact"
-alt="Github Stat"
-height='160px'
-/>
-</div>
-
-
