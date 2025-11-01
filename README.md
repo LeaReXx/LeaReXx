@@ -12,6 +12,7 @@
 
 # 💻 Tech Stack:
 <p align="left">
-<img src="https://skillicons.dev/icons?i=js,ts,html,css,react,nextjs,nodejs,tailwind,mongodb,prisma,postgres,docker,figma,postman,firebase"/>
+<img src="https://skillicons.dev/icons?i=js,ts,html,css,tailwind,react,nextjs,nodejs"/>
+  <img src="https://skillicons.dev/icons?i=mongodb,prisma,postgres,docker,figma,postman,firebase"/>
 </p>
 
